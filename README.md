@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danilojcosta 😎
 - 👀 I’m interested in colaborate and learn.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, NODE and React.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, NODEJS and React.
 - 💞️ I’m looking to collaborate on Open-Source community.
 
 <!---
